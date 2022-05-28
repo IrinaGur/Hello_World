@@ -12,5 +12,5 @@ git commit -m 'new txt file added'(сохранить 1 новый файл)
 10.git checkout master (переходим на ветку master)
 11.git checkout -b your_name (создаем новую ветку)
 hello world
-привет
-git status
+2644,
+
