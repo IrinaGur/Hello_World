@@ -5,10 +5,12 @@
 4.git add .(отслеживает файл в репозиторий)
 5.git status (отслежив.в каком статусе находится файл)
 6.git commit -m 'all files were added to the project' (сохраним все файлы,создаем коммит)
-git commit -m 'new txt file added'(сохратить 1 новый файл)
+git commit -m 'new txt file added'(сохранить 1 новый файл)
 7.git log (посмотреть историю коммитов, сохранений)
 8.git diff (посмотреть изменения, которые были произведены над файлом)
 9.git branch -a (список всех веток)
 10.git checkout master (переходим на ветку master)
 11.git checkout -b your_name (создаем новую ветку)
 hello world
+привет
+git status
