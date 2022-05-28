@@ -9,8 +9,7 @@ git commit -m 'new txt file added'(сохранить 1 новый файл)
 7.git log (посмотреть историю коммитов, сохранений)
 8.git diff (посмотреть изменения, которые были произведены над файлом)
 9.git branch -a (список всех веток)
-10.git checkout master (переходим на ветку master)
+10.git checkout master (переходим на главную ветку master)
 11.git checkout -b your_name (создаем новую ветку)
-hello world
-2644,
+12. git merge your_name
 
